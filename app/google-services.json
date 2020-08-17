@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "155082526511",
+    "firebase_url": "https://hamuli-meeting.firebaseio.com",
+    "project_id": "hamuli-meeting",
+    "storage_bucket": "hamuli-meeting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155082526511:android:e62ff5a199b355c8af1bda",
+        "android_client_info": {
+          "package_name": "com.hamuli.hamulimeeting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155082526511-c82u5rshssa9ua41hg2qkgbjftjclb7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRCfuHbMo4ESBf5TsESyvcE53DH3kQwOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155082526511-c82u5rshssa9ua41hg2qkgbjftjclb7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
